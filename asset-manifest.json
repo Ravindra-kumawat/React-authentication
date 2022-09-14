@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/React-authentication/static/css/main.945411f2.css",
+    "main.js": "/React-authentication/static/js/main.959360a9.js",
+    "static/js/787.214a6be4.chunk.js": "/React-authentication/static/js/787.214a6be4.chunk.js",
+    "static/media/welcome.jpg": "/React-authentication/static/media/welcome.7cf422bd05f2fd9fdc9e.jpg",
+    "static/media/bg.jpg": "/React-authentication/static/media/bg.96ecb0387fee0fe86a4e.jpg",
+    "static/media/user.png": "/React-authentication/static/media/user.a952913a7a42e036aa49.png",
+    "index.html": "/React-authentication/index.html",
+    "main.945411f2.css.map": "/React-authentication/static/css/main.945411f2.css.map",
+    "main.959360a9.js.map": "/React-authentication/static/js/main.959360a9.js.map",
+    "787.214a6be4.chunk.js.map": "/React-authentication/static/js/787.214a6be4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945411f2.css",
+    "static/js/main.959360a9.js"
+  ]
+}
